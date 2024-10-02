@@ -1,0 +1,29 @@
+/* body{
+    height: 100vh;
+    overflow: hidden;
+} */
+
+div{
+    border: 1px solid black;
+}
+
+.red{
+    background-color: red;
+    color: red;
+}
+.blue{
+    background-color: blue;
+    color: blue;
+}
+.green{
+    background-color: green;
+    color: green;
+}
+.pink{
+    background-color: rgb(253, 36, 220);
+    color: rgb(253, 36, 220);
+}
+.orange{
+    background-color: orange;
+    color: orange;
+}
